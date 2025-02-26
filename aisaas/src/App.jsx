@@ -9,6 +9,7 @@ const App = () => {
       <div className='main'>
         <div className='gradient'/>
       </div>
+      {/* yuhhhh */}
 
       <div className='app'>
         <Hero/>
