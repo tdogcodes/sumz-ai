@@ -6,7 +6,7 @@ const Hero = () => {
   <header className='w-full flex justify-center items-center flex-col'>
     <nav className='flex justify-between items-center w-full mb-10 pt-3'>
       <img src={logo} alt="Sumz logo" className='w-28 object-contain'/>
-      <button type='button' onClick={()=> window.open('https://github.com/tdogcodes')} className='black_btn cursor-pointer'>GitHub</button>
+      <button type='button' onClick={()=> window.open('https://github.com/tdogcodes')} className='gray_btn cursor-pointer'>GitHub</button>
     </nav>
 
     <h1 className='head_text'>
